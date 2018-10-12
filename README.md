@@ -1,0 +1,1 @@
+"# MinRicorp.github.io" 
