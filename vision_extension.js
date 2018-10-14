@@ -18,7 +18,7 @@
               callback(this.responseText);
           }
       }
-      request.open("POST", "https://vision.googleapis.com/v1/images:annotate?alt=json&key=API_KEY", true);
+      request.open("POST", "https://vision.googleapis.com/v1/images:annotate?alt=json&key=AIzaSyABsbANarp6Svn1xjrSxlLSahMrz-DbEtY", true);
       request.setRequestHeader('Content-Type', 'application/json');
       request.send(str);
     };
